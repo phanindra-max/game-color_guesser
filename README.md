@@ -6,4 +6,4 @@ To play the game, just open the following link: [Color-Guesser](https://phanindr
 
 ### This is a simple game to play feel free to reach out if you have any ideas or even want to contribute to this repo.
 
-_ Thanks, stay safe and keep rocking!! _
+_Thanks, stay safe and keep rocking!!_
