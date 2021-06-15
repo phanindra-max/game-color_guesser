@@ -1,4 +1,4 @@
-# game-color_guesser
+# [GAME]Color-Guesser
 This is a simple game to guess the color from the given RGB values. Small yet fun to play
 
 ## Instructions 
